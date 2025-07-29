@@ -2,6 +2,10 @@
 
 Replicates anomaly detection from Shirazi et al. (2016) for SCADA systems using K-means, NB, PCA-SVD, GMM, and Isolation Forest. Includes Python scripts and Jupyter Notebook for preprocessing and evaluation. Credit repo and authors if used.
 
+## Source Material
+- Evaluation of Anomaly Detection techniques for SCADA communication resilience (https://ieeexplore-ieee-org.wwwproxy1.library.unsw.edu.au/document/7573322)
+- Datasets: https://sites.google.com/a/uah.edu/tommy-morris-uah/ics-data-sets
+
 ## Prerequisites
 
 - macOS (tested on recent versions; should work on Linux/Windows with minor adjustments)
