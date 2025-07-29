@@ -34,9 +34,9 @@ Replicates anomaly detection from Shirazi et al. (2016) for SCADA systems using 
    For Jupyter: `pip install jupyter`.
 
 4. **Prepare the Dataset**:
-   - Download the full dataset (`Dataset4.arff` or `Dataset4.txt`) from the source (e.g., Mississippi State University SCADA Lab or provided link).
+   - Download the full dataset #4 (`IanArffDataset.arff` or `IanRawDataset.txt`) from the source (e.g., Mississippi State University SCADA Lab or provided link).
    - Place the file(s) in the root of the repository.
-   - Preferred: Use `Dataset4.arff` for direct loading. If using TXT, ensure it's comma-separated.
+   - Preferred: Use `IanArffDataset.arff` for direct loading. If using TXT, ensure it's comma-separated.
 
 ## Running the Analysis
 
