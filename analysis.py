@@ -27,10 +27,10 @@ def g_mean(y_true, y_pred):
 
 # Load data
 try:
-    data, meta = arff.loadarff('Dataset4.arff')
+    data, meta = arff.loadarff('IanArffDataset.arff')
     df = pd.DataFrame(data)
 except:
-    df = pd.read_csv('Dataset4.txt', sep=',', na_values='?')
+    df = pd.read_csv('IanArffDataset.txt', sep=',', na_values='?')
 
 # Decode if ARFF
 for col in df.columns:
