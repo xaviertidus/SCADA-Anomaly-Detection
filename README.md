@@ -74,5 +74,5 @@ MIT License. See LICENSE file for details.
 
 ## References
 
-- Paper: [Shirazi et al. (2016). Evaluation of Anomaly Detection Techniques for SCADA Communication Resilience](https://sites.google.com/a/uah.edu/tommy-morris-uah/ics-data-sets)
-- Dataset: Mississippi State University SCADA Gas Pipeline Dataset.
+- Paper: [Shirazi et al. (2016). Evaluation of Anomaly Detection Techniques for SCADA Communication Resilience](https://sites.google.com/a/uah.edu/tommy-morris-uah/ics-data-sets){:target="_blank"}
+- Dataset: [Mississippi State University SCADA Gas Pipeline Dataset](https://sites.google.com/a/uah.edu/tommy-morris-uah/ics-data-sets){:target="_blank"}
